@@ -114,7 +114,14 @@ const projects = [
     description: 'The agency-facing page I built to represent TimGlobal.',
     stack: ['Vue.js'],
     link: 'https://agency.timglobal.uk'
-  }
+  },
+  {
+    name: 'Afterlights NFT',
+    tag: 'Client Concept · NFT / Web3',
+    description: 'An interactive NFT landing page concept built around a dark fantasy experience, cinematic animations, and an immersive “Enter the Abyss” interaction.',
+    stack: ['Vue.js', 'TypeScript', 'Tailwind CSS', 'GSAP'],
+    link: 'https://afterlights-twik.onrender.com'
+    }
 ]
 
 const contactItems = [
